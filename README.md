@@ -1,6 +1,5 @@
 # Personal Portfolio
-Welcome to my personal portfolio! This website showcases my work and provides an introduction to who I am as a Computer Science student.
-Made with HTML, CSS, JS and Bootstrap
+Welcome to my **personal portfolio**! This website showcases my work and provides an introduction to who I am as a Computer Science student.
 
 ## Table of Contents
 - [Installation](#installation)
